@@ -1,4 +1,4 @@
-# 📹 YouTube Video Downloader 📹 
+# 📹 YouTube Video Downloader  
 
 ![IMG_0778](https://github.com/user-attachments/assets/fd34219e-93af-4972-9edd-4b91eaf9a072)
 
@@ -32,7 +32,7 @@ pip install pyfiglet
 git clone https://github.com/Floppelsin/YTVD
 ```
 
-2. Open the **start.py** file and change variables **video_path** and **audio_path** to direction where you want dow download video/audio
+2. Open the **start.py** file and change variables **video_path** and **audio_path** to direction where you want download video/audio
 
 
 ```
@@ -48,7 +48,8 @@ python start.py
 
 # 🔄 Updating 
 
-1. to update open the terminal in the folder off **YTVD**
+1. to update open the terminal in the folder of **YTVD**
+
 2. insert this command
 
 ```
