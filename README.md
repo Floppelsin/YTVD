@@ -2,10 +2,10 @@
 
 ![IMG_0778](https://github.com/user-attachments/assets/fd34219e-93af-4972-9edd-4b91eaf9a072)
 
-**YouTube Video Downloader** or **YTVD** is a simple cli programm that allows you to download any video or audio from youtube ![IMG_0778]
+**YouTube Video Downloader** or **YTVD** is a simple cli programm wrote in **Python** that allows you to download any video or audio from youtube **fast and easy**
 
 
-# ⚙️ Requierments ⚙️ #
+# ⚙️ Requierments 
 
 1. Python installed on your machine if you don't have one you can download it [here](https://www.python.org/)
 
@@ -24,7 +24,7 @@ pyfiglet
 pip install pyfiglet
 ```
 
-# ⬇️ Instalation ⬇️
+# ⬇️ Instalation 
 
 1. clone the reporistory to any directory you want
 
@@ -46,3 +46,11 @@ audio_path = '˜/your/path/to/audio'
 python start.py
 ``` 
 
+# 🔄 Updating 
+
+1. to update open the terminal in the folder off **YTVD**
+2. insert this command
+
+```
+git pull
+```
