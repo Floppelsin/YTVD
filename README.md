@@ -9,20 +9,7 @@
 
 1. Python installed on your machine if you don't have one you can download it [here](https://www.python.org/)
 
-2. You need to download following libraries **pytubefix, pyfiglet**
-you can download them using this command
 
-pytubefix
-
-```
-pip install pytubefix
-```
-
-pyfiglet
-
-```
-pip install pyfiglet
-```
 
 # ⬇️ Instalation 
 
@@ -32,15 +19,28 @@ pip install pyfiglet
 git clone https://github.com/Floppelsin/YTVD
 ```
 
-2. Open the **start.py** file and change variables **video_path** and **audio_path** to direction where you want download video/audio
-
+2. Open the **start.py** file and change variables **video_path** and **audio_path** to direction where you want download video/audio or you can don't touch it and it'll save to **YTVD** */audio* or */video* folder 
 
 ```
 video_path = '˜/your/path/to/video' 
 audio_path = '˜/your/path/to/audio'
 ```
 
-3. Run the **start.py** script
+
+3. Activate the **VENV**
+On **Linux** you can do this using this command
+```
+source venv/bin/activate
+```
+
+or 
+
+```
+source venv/bin/activate.fish
+```
+if you're using fish as a shell 
+
+4. Run the **start.py** script
 
 ```
 python start.py
