@@ -2,8 +2,8 @@ from pytubefix import YouTube
 import pyfiglet 
 
 #Change those variables to your path
-video_path = '\Videos' 
-audio_path = '\Audios'
+video_path = '' 
+audio_path = ''
 
 #Welcome text
 figlet = pyfiglet.Figlet(font='slant')
